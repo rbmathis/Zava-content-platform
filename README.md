@@ -1,2 +1,5 @@
 # Zava-content-platform
-[FlowLens Demo] CMS and content delivery — Team: Content Platform, Group: Marketing Tech
+
+CMS and content delivery
+
+Update 1 by James Chen
