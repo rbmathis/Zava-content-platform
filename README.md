@@ -2,4 +2,4 @@
 
 CMS and content delivery
 
-Update 1 by James Chen
+Update 2 by Aisha Okafor
